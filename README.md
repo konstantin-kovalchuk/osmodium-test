@@ -1,1 +1,0 @@
-# osmodium-test
